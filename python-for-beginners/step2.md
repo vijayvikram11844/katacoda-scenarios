@@ -6,3 +6,4 @@ Once its successfully launched, you will see the output similar to
     The Jupyter Notebook is running at: 
     http://127.0.0.1:8888/?token=6d967a0b65206dfa01437829d063c269ef9c5b654ec32025
 
+You will need to copy this newly generated token for the next step
