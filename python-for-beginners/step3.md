@@ -1,5 +1,5 @@
-Click on **+** at the top and choose option 3 **Select port to view on Host1**. This will open a new page to allow you to enter the port number 8888 and access the services. 
+Click on **+** sign at the top the terminal window and choose option 3 `Select port to view on Host1`. This will open a new page where you enter the port number **8888** to access the services. 
 
-You can now start the services by entering the **token** you had from the previous output to Login. Jupyter Notebook is now ready for use. 
+You can now load the Jupyter Notebook services with the **token** you had from the previous step in the `Password or Token` field and click Login.
 
-You can import the necessary projects files from your personal library or from [https://github.com/ict-singapore/pythonexercises.git](https://github.com/ict-singapore/pythonexercises.git) (requires authentication). 
+The services are now ready for use. You can import the necessary projects files from your personal library or from [https://github.com/ict-singapore/pythonexercises.git](https://github.com/ict-singapore/pythonexercises.git) (requires authentication) to continue your exercises.
