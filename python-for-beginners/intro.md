@@ -1,0 +1,1 @@
+In this scenario you'll learn how to use Python with Jupyter notebook based on Anaconda installed via Docker. The environment is pre-configured with Docker engine and you will experiment and learn how it works. The steps guide you to installing the nescessary Docker image to create, build and viewing the results.
