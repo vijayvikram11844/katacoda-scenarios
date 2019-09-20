@@ -8,3 +8,5 @@ Once its successfully launched, you will see the output similar to
     http://127.0.0.1:8888/?token=6d967a0b65206dfa01437829d063c269ef9c5b654ec32025
 
 >**Note:** You will need to copy the token for eg: **6d967a0b65206dfa01437829d063c269ef9c5b654ec32025** to use in the next step.
+
+Click on Continue below to move to the next step
