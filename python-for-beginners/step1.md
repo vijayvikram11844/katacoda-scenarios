@@ -2,3 +2,4 @@ In this first step , lets install Anaconda as a docker image to start our projec
 To install the correct image, use `docker pull continuumio/anaconda3`{{execute}}
 
 This will pull the latest Anaconda image for our project and takes about a minute to complete.
+Click on Continue below to move to the next step
