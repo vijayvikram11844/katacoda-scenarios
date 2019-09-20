@@ -2,4 +2,4 @@ Click on **+** sign at the top the terminal window and choose option 3 `Select p
 
 You can now load the Jupyter Notebook services with the **token** you had from the previous step in the `Password or Token` field and click Login.
 
-The services are now ready for use. You can import the necessary projects files from your personal library or from [https://github.com/ict-singapore/pythonexercises] https://github.com/ict-singapore/pythonexercises to continue your exercises.
+The services are now ready for use. You can import the necessary projects files from your personal library or from [https://github.com/ict-singapore/pythonexercises] (https://github.com/ict-singapore/pythonexercises) to continue your exercises.
