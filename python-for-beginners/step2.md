@@ -1,4 +1,4 @@
-Once the installation is completed. We can start the container to give us an interactive Python shell using Jupyter Notebook. To start the Jupyter Notebook from the image use :
+We can start the container to give us an interactive Python shell using Jupyter Notebook. To start the Jupyter Notebook from the image use :
 
 `docker run -i -t -p 8888:8888 continuumio/anaconda3 /bin/bash -c "/opt/conda/bin/conda install jupyter -y --quiet && mkdir /opt/notebooks && /opt/conda/bin/jupyter notebook --notebook-dir=/opt/notebooks --ip='*' --port=8888 --no-browser --allow-root"`{{execute}}
 
